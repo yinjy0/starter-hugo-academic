@@ -35,7 +35,7 @@ feature:
 - description: 60%
   icon: html
   icon_pack: custom
-  name: HTML5
+  name: HTML
 - description: 90%
   icon: microsoft
   icon_pack: fab
