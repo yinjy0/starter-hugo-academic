@@ -26,8 +26,8 @@ experience:
     company: 东北大学
     company_url: 'http://www.neu.edu.cn/'
     company_logo: neu
-    location: California
-    date_start: '2020-09'
+    location: 沈阳
+    date_start: '2020-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -40,9 +40,9 @@ experience:
     company: 沈阳航空航天大学
     company_url: 'http://www.sau.edu.cn/'
     company_logo: sau
-    location: California
-    date_start: '2016-09'
-    date_end: '2020-07'
+    location: 沈阳
+    date_start: '2016-09-01'
+    date_end: '2020-07-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
