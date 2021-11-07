@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: 1059027552@qq.com
+email: yinjiyao@outlook.com
 phone: 176 4012 7413
 address:
   street: 辽宁省沈阳市和平区文化路三巷11号
@@ -38,22 +38,15 @@ address:
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: qq
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: 1059027552
+    link: '#'
+  - icon: weixin
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: swagfrank
+    link: '#'
+
 
 # Site header
 
