@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 尹冀尧
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 东北大学机械专业在读硕士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: 东北大学
+  url: https://www.neu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yinjy0
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
