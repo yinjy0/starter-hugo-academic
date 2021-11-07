@@ -29,6 +29,10 @@ feature:
   icon_pack: fab
   name: Python
 - description: 90%
+  icon: ps
+  icon_pack: custom
+  name: Photoshop
+- description: 90%
   icon: microsoft
   icon_pack: fab
   name: Office
