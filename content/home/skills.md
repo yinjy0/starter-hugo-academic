@@ -32,6 +32,10 @@ feature:
   icon: ps
   icon_pack: custom
   name: Photoshop
+- description: 60%
+  icon: html
+  icon_pack: custom
+  name: HTML5
 - description: 90%
   icon: microsoft
   icon_pack: fab
